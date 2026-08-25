@@ -1,15 +1,12 @@
-Integrantes: 
+# POOII-GRUPO06-S2-1-Actividad1
 
-. CAJA CORRALES, DAIN JAIR(DainBox)
+### Integrantes
+- *CAJA CORRALES, DAIN JAIR(DainBox)*
+- *RETES GUTIERREZ, PIERO FERNANDO (Pieroretes27)*
+- *SOSA TACO, CELINA OLENKA (Olenkasosa)*
+- *YURIVILCA LAUREANO, STEFFI IRENE (IreYuri)*
 
-. RETES GUTIERREZ, PIERO FERNANDO (Pieroretes27)
-
-. SOSA TACO, CELINA OLENKA (Olenkasosa)
-
-. YURIVILCA LAUREANO, STEFFI IRENE (IreYuri)
-
-
-Actividad 1
+# Actividad 1
 
 Instrucciones:
 1.	Identificar las violaciones de los principios SOLID.
