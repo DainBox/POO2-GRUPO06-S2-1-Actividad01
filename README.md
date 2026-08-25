@@ -1,4 +1,4 @@
-Integrantes
+Integrantes: 
 . CAJA CORRALES, DAIN JAIR(DainBox)
 . RETES GUTIERREZ, PIERO FERNANDO (Pieroretes27)
 . SOSA TACO, CELINA OLENKA (Olenkasosa)
