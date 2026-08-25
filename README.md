@@ -1,8 +1,13 @@
 Integrantes: 
+
 . CAJA CORRALES, DAIN JAIR(DainBox)
+
 . RETES GUTIERREZ, PIERO FERNANDO (Pieroretes27)
+
 . SOSA TACO, CELINA OLENKA (Olenkasosa)
+
 . YURIVILCA LAUREANO, STEFFI IRENE (IreYuri)
+
 
 Actividad 1
 
