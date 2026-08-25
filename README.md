@@ -8,9 +8,11 @@
 - *SOSA TACO, CELINA OLENKA (Olenkasosa)*
 - *YURIVILCA LAUREANO, STEFFI IRENE (IreYuri)*
 
-## Objetivo: El objetivo de esta actividad es que los estudiantes analicen un código fuente que infringe los principios SOLID, identifiquen las violaciones y propongan soluciones para corregirlas aplicando los principios de SOLID.
-## Problema: Un sistema de gestión de empleados en una empresa tiene varias violaciones de los principios SOLID.
-## Código Fuente:
+### Objetivo: El objetivo de esta actividad es que los estudiantes analicen un código fuente que infringe los principios SOLID, identifiquen las violaciones y propongan soluciones para corregirlas aplicando los principios de SOLID.
+
+### Problema: Un sistema de gestión de empleados en una empresa tiene varias violaciones de los principios SOLID.
+
+### Código Fuente:
 
 <img width="714" height="580" alt="WhatsApp Image 2026-08-24 at 10 33 00 AM" src="https://github.com/user-attachments/assets/98427394-dd47-41cc-8ac4-1cd5e836a6b5" />
 
