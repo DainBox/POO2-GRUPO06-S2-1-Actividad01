@@ -25,4 +25,3 @@ También podemos crear interfaces separadas para las otras funciones, por ejempl
 
 Finalmente, SistemaGestionEmpleados trabajará con estas interfaces en lugar de depender directamente de una implementación determinada. Esto permite que el sistema sea más flexible y facilita realizar cambios en el futuro, por ejemplo, cambiar la forma de guardar los empleados o generar los reportes sin modificar toda la lógica del sistema.
 
-3.	Implementar las soluciones en el código.
